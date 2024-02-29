@@ -15,6 +15,8 @@
  10. GeneratePassword: generates unique random passwords. Alphabets only, Alphanumeric and numeric only (for otps)
  11. ReportDataDAO: for fetching datas/single values from any database.
 
+Note: For detail information on the package and their clasess and examples kindly refer to the javadoc in the target/sites folder.
+
 Other APIs include:
 1. DataEncription: for encrypting data like passwords.
 2. Connection (ongoing review and update): for establishing connection to additional database, Oracle, Postgres, etc
